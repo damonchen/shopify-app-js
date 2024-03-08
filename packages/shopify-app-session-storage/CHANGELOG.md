@@ -1,5 +1,11 @@
 # @shopify/shopify-app-session-storage
 
+## 2.1.2
+
+### Patch Changes
+
+- 3938adc: Update shopify-api-js to v9.5
+
 ## 2.1.1
 
 ### Patch Changes
